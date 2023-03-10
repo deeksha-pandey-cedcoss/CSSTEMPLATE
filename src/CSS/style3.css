@@ -36,7 +36,7 @@ main {
 section {
     width: 150%;
     text-align: left;
-    margin-left:3%
+    margin:3% 3%;
 }
 
 h1 {
@@ -73,7 +73,7 @@ h3 {
 /*footer*/
 footer {
     text-align: right;
-    background-color: #cccccc;
+    background-color: #929292;
     padding: 1%;
     padding-right: 20px;
 }
